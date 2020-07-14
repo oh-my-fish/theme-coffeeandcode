@@ -74,7 +74,7 @@ function fish_prompt --description 'Write out the prompt'
     end
   end
 
-  set -l delim '$'
+  set -l delim 'λ>>'
 
   switch $USER
 
